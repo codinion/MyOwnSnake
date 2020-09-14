@@ -1,5 +1,6 @@
 # MyOwnSnake
 A simple implementation of the classic **Snake** game.  
+![Screen Capture](/screencapture.png)  
 Uses **PyGame/Python3**.  
 Assets created using **Inkscape**.  
 Sound effects/Music obtained from **https://www.zapsplat.com**  
