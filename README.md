@@ -1,4 +1,4 @@
-# MyOwnSnake
+# A Classic Snake Game
 A simple implementation of the classic **Snake** game.  
 ![Screen Capture](/screencapture.png)  
 Uses **PyGame/Python3**.  
